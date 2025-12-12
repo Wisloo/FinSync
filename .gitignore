@@ -1,0 +1,19 @@
+# Build folders
+cmake-build-debug/
+.idea/
+build/
+
+# Executables (except the main one)
+*.exe
+!FinSyncApp.exe
+
+# Object files
+*.o
+*.obj
+
+# User data
+transactions.txt
+
+# System files
+.DS_Store
+Thumbs.db

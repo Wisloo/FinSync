@@ -3,14 +3,10 @@
 A beautiful, modern GUI application for tracking your income and expenses built with native Windows API (Win32) and C++.
 
 **✅ No external libraries required!** Works out of the box on Windows.
-**✅ No Qt needed!** Uses only built-in Windows libraries.
-**✅ Philippine Peso (₱) currency support!**
 
 ## 📖 Quick Links
 
 - **[Quick Start Guide](QUICKSTART.md)** - Get up and running in 2 minutes!
-- **[Fix Summary](FIX_SUMMARY.md)** - Technical details of all fixes
-- **[Changelog](CHANGELOG.md)** - Version history and updates
 
 ## Main File
 

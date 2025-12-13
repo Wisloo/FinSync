@@ -165,7 +165,7 @@ const std::vector<std::wstring> categories = {
 };
 ```
 
-## Contribution
+## Author
 Louis Antonio D. Lapayag - Lead Developer
 
 ## License

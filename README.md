@@ -165,9 +165,8 @@ const std::vector<std::wstring> categories = {
 };
 ```
 
-## Contributing
-
-Feel free to fork this project and submit pull requests for any improvements!
+## Contribution
+Louis Antonio D. Lapayag - Lead Developer
 
 ## License
 
